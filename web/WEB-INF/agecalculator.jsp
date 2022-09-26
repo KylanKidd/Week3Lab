@@ -19,7 +19,8 @@
             
         </form>
            
-           <p class="response">${message}</p>
+           <p class="response">${Result}</p>
+           <a href ="arithmetic"> Arithmetic Calculator</a> 
            
     </body>
 </html>
